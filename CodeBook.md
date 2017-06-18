@@ -1,6 +1,7 @@
 # The code book for tidy_data.txt
 
-### The original data for the project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+The original data for the project: 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 # Source files:
 * features.txt 
